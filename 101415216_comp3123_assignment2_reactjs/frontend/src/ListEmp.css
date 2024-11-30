@@ -1,0 +1,44 @@
+.btn-pink-500{
+    background-color: #f08080;
+    color: #2a0b1a;
+    border: 1px solid black;
+}
+
+.btn-pink-400{
+    background-color: #fbc4ab;
+}
+
+.btn-pink-300{
+    background-color: #ffdab9;
+}
+
+.btn-pink-200{
+    background-color: #ffb5a7;
+    color: #2a0b1a;
+    border: 1px solid black;
+    margin: 0 2% 0 2%;
+}
+
+.btn-red-400{
+    background-color: #e25d69;
+    color: #f7d7d8;
+    border: 1px solid black;
+    margin: 0 2% 0 2%;
+}
+
+.btn-search{
+    background-color: #75b698;
+    color: #061b11;
+    border: 1px solid black;
+    margin: 0 2% 0 2%;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: #fbc4ab; 
+ }
+
+ .table-striped>tbody>tr:nth-child(even)>td, 
+.table-striped>tbody>tr:nth-child(even)>th {
+   background-color: #ffdab9; 
+ }
